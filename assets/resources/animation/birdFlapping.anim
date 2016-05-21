@@ -1,0 +1,40 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "birdFlapping",
+  "_objFlags": 0,
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 0.9,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": [
+            0.02,
+            0.17,
+            0.61,
+            0.98
+          ]
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 20,
+          "curve": [
+            0.4,
+            0,
+            0.54,
+            0.49
+          ]
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}
